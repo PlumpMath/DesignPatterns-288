@@ -48,12 +48,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DuckCall\DuckCall.cs" />
+    <Compile Include="Ducks\Duck.cs" />
     <Compile Include="DuckTest.cs" />
+    <Compile Include="Fly\FlyImpossible.cs" />
+    <Compile Include="Fly\FlyWithWings.cs" />
+    <Compile Include="Fly\IFlyBehavior.cs" />
+    <Compile Include="Quack\IQuackBehavior.cs" />
+    <Compile Include="Ducks\Mallard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quack\MuteQuack.cs" />
+    <Compile Include="Quack\Squeak.cs" />
+    <Compile Include="Quack\StandardQuack.cs" />
+    <Compile Include="Ducks\Redhead.cs" />
+    <Compile Include="Ducks\Rubber.cs" />
+    <Compile Include="Ducks\WoodenDecoy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
