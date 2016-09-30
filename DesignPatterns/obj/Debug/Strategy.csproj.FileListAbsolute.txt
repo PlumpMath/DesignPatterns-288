@@ -1,0 +1,8 @@
+C:\Users\brents\src\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\Users\brents\src\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\brents\src\DesignPatterns\DesignPatterns\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\brents\src\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\Users\brents\src\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\brents\src\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.dll
+C:\Users\brents\src\DesignPatterns\DesignPatterns\bin\Debug\Shouldly.dll
+C:\Users\brents\src\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.xml
